@@ -1,0 +1,7 @@
+[package]
+name = "trespass"
+version = "0.1.0"
+authors = ["Zahari Petkov <zahari@balena.io>"]
+edition = "2018"
+
+[dependencies]
